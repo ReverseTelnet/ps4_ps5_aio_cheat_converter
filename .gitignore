@@ -1,0 +1,94 @@
+###########  macOS Silliness  ###########
+.DS_Store
+
+
+
+###########  Python Silliness  ###########
+__pycache__*
+
+
+
+###########  Environmental Variables and Secrets ###########
+.env*
+*.envrc*
+*environmental_variables*
+*credentials*
+*.git-credentials*
+
+
+
+###########  pyCharm Silliness  ###########
+.idea/
+.idea*
+
+
+
+###########  VSCode Silliness  ###########
+.vscode/
+.vscode*
+
+
+
+###########  Common File Extensions  ###########
+*.bak
+*.c
+*.csv
+*.json
+*.log
+*.mc4
+*.ref
+*.shn
+*.tmp
+*.txt
+*.xlsm
+*.xlsx
+*.xml
+*.yaml
+
+
+
+###########  Common Folders  ###########
+/archive*
+/develop*
+/example*
+/*file_list*
+/hold*
+/ignore*
+/interpreter*
+/json*
+/logs*
+/response*
+/scratch*
+/script_results*
+/*temp*
+/test*
+/unsorted*
+
+
+###########  File Copies  ###########
+copy_of_*
+
+
+
+###########  Python Virtual Environments  ###########
+venv/
+.venv
+venv/
+.venv/
+
+
+
+###########  Self and Ignore Ignore  ###########
+.gitignore
+.ignore*
+
+
+
+###########  Common Dev Files  ###########
+develop*
+ignore*
+test*
+scratch*
+script_results*
+exception_list*
+reference*
