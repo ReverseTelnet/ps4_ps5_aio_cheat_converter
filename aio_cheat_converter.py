@@ -63,7 +63,7 @@
 
 
 
-SCRIPT_VERSION = 0.01
+SCRIPT_VERSION = 1.00
 
 
 
